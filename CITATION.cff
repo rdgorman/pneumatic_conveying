@@ -3,7 +3,7 @@ message: "If you use this software, please cite it as below."
 authors:
   - family-names: Ross
     given-names: Gorman
-    orcid: https://orcid.org/>>>>
+    orcid: https://orcid.org/0000-0003-3272-5199
 title: "Dissertation Code"
 version: ?.?.?
 doi: ?????/zenodo.????
