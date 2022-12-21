@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Ross
+    given-names: Gorman
+    orcid: https://orcid.org/>>>>
+title: "Dissertation Code"
+version: ?.?.?
+doi: ?????/zenodo.????
+date-released: YYYY-MM-DD
