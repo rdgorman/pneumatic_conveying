@@ -1,0 +1,24 @@
+Diameter, 0.15022
+Pipe Roughness, 0.0001524
+
+Pipeline Sections
+Section Number, Flow Path, Section Type, Orientation, Length In Meters, Diameter, Note
+0, 0, Horizontal, North, 2.0066, , , 0.15022, 
+1, 0, Bend, N-U, 0.731800001472, , , 0.15022, 
+2, 0, Bend, U-N, 0.731800001472, , , 0.15022, 
+3, 0, Horizontal, North, 8.232775, , , 0.15022, 
+4, 0, Bend, N-U, 0.731800001472, , , 0.15022, 
+5, 0, Vertical, Upward, 4.4831, , , 0.15022, 
+6, 0, Splitter, U-E-W, 0.54864, 1, 2, 0.15022, Not Actually E-W Output
+7, 1, Horizontal, East, 0.5969, , , 0.09718, 
+8, 1, Bend, E-N, 0.4859, , , 0.09718, 
+9, 1, Horizontal, North, 2.8527375, , , 0.09718, 
+10, 1, Bend, N-U, 0.4859, , , 0.09718, 
+11, 1, Vertical, Upward, 0.6461125, , , 0.09718, 
+12, 1, Bend, U-W, 0.4859, , , 0.09718, 
+13, 2, Horizontal, West, 2.7559, , , 0.09718, 
+14, 2, Half Bend, W-N, 0.4859, , , 0.09718, 45 degree bend
+15, 2, Horizontal, North, 1.095375, , , 0.09718, 
+16, 2, Bend, N-U, 0.4859, , , 0.09718, 
+17, 2, Vertical, Upward, 0.6461125, , , 0.09718, 
+18, 2, Bend, U-W, 0.4859, , , 0.09718, 
